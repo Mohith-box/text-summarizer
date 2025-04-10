@@ -12,6 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
+
+
 #OBJECTIVE
 
 The goal of Task 1 was to build a Text Summarization Tool using Natural Language Processing (NLP) techniques. The tool should be able to analyze a long piece of text and return a concise, meaningful summary — similar to how a human might condense a paragraph or an article into a few lines.
