@@ -66,3 +66,7 @@ Model Inference: The BART model processes the input and identifies the most rele
 Text Generation: The model constructs a summary using natural-sounding language.
 
 Output Display: The summary is printed to the screen (or optionally saved).
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/61b67153-c652-4588-8060-049ff2613356)
