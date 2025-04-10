@@ -1,1 +1,13 @@
-# text-summarizer
+#  TEXT SUMMARIZATION TOOL
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: Mohith B
+
+*INTERN ID*: CT06WRL
+
+*DOMAIN*: Artificial intelligence 
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
