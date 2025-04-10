@@ -40,11 +40,17 @@ Easily extendable to take input from files or a UI.
 # Platform & Technology Stack
 
 *Component	Details
+
 Language:	Python
+
 Libraries:	transformers (by Hugging Face), torch
+
 Model:	facebook/bart-large-cnn (BART - Bidirectional and Auto-Regressive Transformer)
+
 Execution:	Command-line script / Python environment
+
 Runtime:	CPU or GPU (if available)
+
 Development:	VS Code / Any Python IDE
 
 # How the Tool Works (Behind the Scenes)
